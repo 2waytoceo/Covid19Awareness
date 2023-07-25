@@ -7,7 +7,7 @@ This respository is specially for newcomers who wants to enhance their knowledge
  </div>
 
 <h2 align="center">
-This repository has been a part of HackCLUB Rait
+This repository has been a part of 2Way Infotech Pvt Ltd
 <br/><br/
 
 ###  How to Start?  
