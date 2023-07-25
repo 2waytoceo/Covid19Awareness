@@ -67,4 +67,4 @@ $ git push origin [name_of_your_new_branch]
 
 Sample Website: [`Click Here`](https://2waytoceo.github.io/Covid19Awareness/)
 
-Thanks to all the people who have contributed:
+## Thanks to all the people who have contributed
